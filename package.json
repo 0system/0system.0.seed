@@ -1,0 +1,14 @@
+{
+  "name": "0.seed",
+  "version": "0.0.0",
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "scripts": {
+    "install": "sh ./install.sh",
+    "start": "sh ./start.sh"
+  },
+  "dependencies": {
+    "bash.origin": "^0.1.27"
+  }
+}
